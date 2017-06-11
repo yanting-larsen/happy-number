@@ -27,6 +27,16 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
+test {
+    dependsOn 'cleanTest'
+
+    testLogging {
+        showStandardStreams = true
+        events 'passed', 'skipped', 'failed'
+        exceptionFormat = 'full'
+    }
+}
+
 // Define the main class for the application
 mainClassName = 'App'
 
