@@ -24,11 +24,8 @@
 ![screenshot from 2017-06-14 09 38 44](https://user-images.githubusercontent.com/17611844/27121219-a7bc040e-50e6-11e7-9ab9-85e819aee8e2.png)
 
 ## Reference:
-    Happy Number:
-[https://en.wikipedia.org/wiki/Happy_number](url)
-    Gradle Build Tool User Guide:
-[https://docs.gradle.org/current/userguide/userguide.html](url)
-    Logging while testing through Gradle:
-[https://stackoverflow.com/questions/9356543/logging-while-testing-through-gradle](url)
+Happy Number: [https://en.wikipedia.org/wiki/Happy_number](url)
+Gradle Build Tool User Guide: [https://docs.gradle.org/current/userguide/userguide.html](url)
+Logging while testing through Gradle: [https://stackoverflow.com/questions/9356543/logging-while-testing-through-gradle](url)
     
 
