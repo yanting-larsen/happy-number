@@ -19,6 +19,7 @@
     # gradle run
     ![screenshot from 2017-06-14 09 37 17](https://user-images.githubusercontent.com/17611844/27121182-807b40e4-50e6-11e7-9ee5-173f0a22f0e6.png)
     ![screenshot from 2017-06-14 09 40 02](https://user-images.githubusercontent.com/17611844/27121206-990f7d6e-50e6-11e7-8367-045270590f27.png)
+    https://user-images.githubusercontent.com/17611844/27121219-a7bc040e-50e6-11e7-9ab9-85e819aee8e2.png
 
     # gradle test
     ![screenshot from 2017-06-14 09 38 44](https://user-images.githubusercontent.com/17611844/27121219-a7bc040e-50e6-11e7-9ab9-85e819aee8e2.png)
