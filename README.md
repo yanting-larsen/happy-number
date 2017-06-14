@@ -1,9 +1,7 @@
 # happy-number
-
-# A happy number is a positive integer for which the sum of the squares of the digits eventually leads to 1.
-
-# Example of a happy number: 31 => 3^2 + 1^2 => 10 => 1^2 + 0^2 = 1
-# Example of an unhappy number: 4 => 16 => 37 => 58 => 89 =>145 => 42 => 20 >= 4
+    # A happy number is a positive integer for which the sum of the squares of the digits eventually leads to 1.
+    # Example of a happy number: 31 => 3^2 + 1^2 => 10 => 1^2 + 0^2 = 1
+    # Example of an unhappy number: 4 => 16 => 37 => 58 => 89 =>145 => 42 => 20 >= 4
 
 # Task:
     # Write a program in Java that prints the first happy numbers in natural order found within the range 1 - 1000 to the console.
